@@ -5,5 +5,8 @@
 
 int main()
 {
+	game mygame;
+	
+	mygame.start();
 	return 0;
 }
